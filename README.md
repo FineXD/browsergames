@@ -24,10 +24,6 @@ https://wasmarcade.com/vice-city
 Pes 06:
 https://pes6.optijuegos.net/
 
-Bazi Haye Mokhtalef:
-https://dos.zone
-https://quenq.com
-
 TF2:
 https://tf2.riddy.workers.dev/
 
