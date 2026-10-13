@@ -1,6 +1,7 @@
 Minecraft:
 https://classic.minecraft.net
 https://eaglercraft.com
+https://wasmarcade.com/minecraft
 
 Cs:
 https://play-cs.com
@@ -16,6 +17,9 @@ https://gta2.deloskiyt.pl/
 
 GTA Vice City:
 https://joncodeofficial.github.io/gta-vice-city-wasm/
+https://quenq.com/apps/vice-city/
+https://wasmarcade.com/vice-city
+
 
 Pes 06:
 https://pes6.optijuegos.net/
@@ -29,3 +33,11 @@ https://tf2.riddy.workers.dev/
 
 Among us:
 https://wasm.rip/files/amongus/index.html
+
+Black ops zombies:
+https://vel.gg/bo1z
+
+Cuphead:
+https://wasm.rip/files/cuphead/index.html
+
+
